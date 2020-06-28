@@ -5,7 +5,7 @@ end
 def actor
 	wrestler = {"actor" => "Dwayne The Rock Johnson"}
 end
-
+actor
 def monopoly
 	monopoly = {}
 
