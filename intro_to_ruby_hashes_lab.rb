@@ -3,8 +3,8 @@ def new_hash
 end
 
 def actor
-	wrestler = {"actor" => "Dwayne The Rock Johnson"}
-	return wrestler
+	actor = {"actor" => "Dwayne The Rock Johnson"}
+	return actor
 end
 
 def monopoly
