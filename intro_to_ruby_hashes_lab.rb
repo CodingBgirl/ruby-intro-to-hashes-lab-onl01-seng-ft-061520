@@ -4,7 +4,6 @@ end
 
 def actor
 	actor["wrester"] = Dwayne The Rock Johnson
-	return actor
 end
 
 def monopoly
